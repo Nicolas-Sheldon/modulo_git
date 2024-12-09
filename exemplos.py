@@ -1,0 +1,13 @@
+# Padrões para nomear commits O padrão para escrever as mensagens para os commits é: 
+
+# Chore: usado para pequenas tarefas:
+# git commit  –m “chore: removendo arquivo.txt” 
+
+# Fix: correções:
+# git commit  –m “fix: correção no cálculo de médias” 
+
+# Feat: inclusão de funcionalidade:
+# git commit  –m “feat: inclusão de função para calcular mediana” 
+
+# Docs: atualização de documentação:
+# git commit  –m “atualizando o changelog.md”
